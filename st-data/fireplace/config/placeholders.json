@@ -1,0 +1,15 @@
+{
+  "industry": "fireplace",
+  "domain": "example.com",
+  "company_name": "Fireplace Built",
+  "phone": "(555) 123-4567",
+  "email": "info@example.com",
+  "tagline": "Professional Fireplace Repair & Maintenance",
+  "gtm_id": "GTM-XXXXXXX",
+  "city_name": "San Francisco",
+  "state_name": "CA",
+  "working_hours":"Monday - Friday: 9AM - 7PM",
+  "queue_form_url":"https://api.logicalcrm.com/web_api/web/web_query",
+  "queue_form_token":"202_e65b7ce5xsc",
+  "queue_form_industry_code":"103"
+}
